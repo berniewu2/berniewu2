@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bernie Wu and I'm a student in UCSD</h2>
+<h2 align="left">Hi 👋! My name is Bernie Wu and I'm a student at UCSD</h2>
 
 ###
 
@@ -28,9 +28,7 @@
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=berniewu2@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=bernie_6420&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="www.linkedin.com/in/bernie-wu" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=www.linkedin.com/in/bernie-wu&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
