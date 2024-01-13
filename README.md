@@ -1,7 +1,6 @@
 <h2 align="left">Hi 👋! My name is Bernie Wu and I'm a student at UCSD</h2>
 
-
-
+[![reimaginedreadme](https://myreadme.vercel.app/api/embed/berniewu2?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/berniewu2/reimaginedreadme)
 ###
 
 <div align="left">
@@ -20,10 +19,7 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=berniewu2@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=bernie_6420&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=www.linkedin.com/in/bernie-wu&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+<a href="mailto:berniewu2@gmail.com">![berniewu2@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="<https://www.linkedin.com/in/bernie-wu/>">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 ###
