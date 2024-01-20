@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Bernie Wu and I'm a student at UCSD</h2>
 
-[![reimaginedreadme](https://myreadme.vercel.app/api/embed/berniewu2?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/berniewu2/reimaginedreadme)
+[![readme](https://myreadme.vercel.app/api/embed/berniewu2?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/berniewu2)
 ###
 
 <div align="left">
