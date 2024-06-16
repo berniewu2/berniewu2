@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Bernie Wu and I'm a student at UCSD</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&size=25&pause=1000&center=true&vCenter=true&random=false&width=900&lines=Bernie+Wu;Math+%26+CS+in+UCSD)](https://git.io/typing-svg)
 
 [![readme](https://myreadme.vercel.app/api/embed/berniewu2?panels=userstatistics,toprepositories,toplanguages,commitgraph)](https://github.com/berniewu2)
 ###
