@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&size=30&pause=1000&center=true&vCenter=true&random=false&width=900&lines=Bernie+Wu;Math+%26+CS+in+UCSD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Alkatra&size=30&pause=1000&center=true&vCenter=true&random=false&width=900&lines=Bernie+Wu;Math+%26+CS+@+UC+San+Diego)](https://git.io/typing-svg)
 
 ###
 
